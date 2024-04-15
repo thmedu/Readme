@@ -18,8 +18,9 @@ Sou um Desenvolvedor Fullstack,estou constantemente aprimorando minhas habilidad
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="50" height="50" /> Redes 
 
-[![My Skills](https://skillicons.dev/icons?i=, facebook, Instagram,twitter,discord, redit,linkedin&=3)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=facebook,instagram,twitter,discord,reddit,linkedin)](https://skillicons.dev)
+
+
 <div align="justify">
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://github.com/thmedu">
