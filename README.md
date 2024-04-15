@@ -1,45 +1,27 @@
+[<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="800" />](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
+
 <div align="justify">
 
-# 👋 Olá, sou o Thomas
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  Olá, sou o Thomas 
 
 Desenvolvedor Fullstack, estou constantemente aprimorando minhas habilidades e trabalhando em projetos pessoais.
 
-## 🛠️ Tecnologias
-
-<img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" width="30" height="30">
-<img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="30" height="30">
-<img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" width="30" height="30">
-<img src="https://img.icons8.com/color/96/python.png" alt="Python" width="30" height="30">
-<img src="https://img.icons8.com/color/96/react-native.png" alt="React" width="30" height="30">
-<img src="https://img.icons8.com/color/96/django.png" alt="Django" width="30" height="30">
-<img src="https://img.icons8.com/color/96/git.png" alt="Git" width="30" height="30">
-<img src="https://img.icons8.com/color/96/vue-js.png" alt="Vue.js" width="30" height="30">
-<img src="https://img.icons8.com/color/96/express.png" alt="Express.js" width="30" height="30">
-<img src="https://img.icons8.com/color/96/bootstrap.png" alt="Bootstrap" width="30" height="30">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="50" height="50" />  Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=,js,nodejs,py,react,vue,html&flask=3)](https://skillicons.dev)
 
 </div>
 
-## 📞 Redes de Contato
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="50" height="50" /> Redes e  Contato
 
 <div align="justify">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thmeduardo/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thmedu@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-nascimento-7b0508244/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_nome)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
 
 </div>
-
-## 📚 Educação
-
-- **Tecnólogo em Desenvolvimento de Operações - DevOps**
-  - **Instituição:** Superior Anhanguera
-  - **Período:** Cursando, Conclusão em 2025
-
-## 🌐 Idiomas
-
-- Inglês.
-- Espanhol.
 
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
