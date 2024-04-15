@@ -1,7 +1,8 @@
 [<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="800" />](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
 
+Bem-vindo ao meu perfil do GitHub! 👋
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  Olá,sou o me chamo Thomas 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  Olá, me chamo Thomas e bem vindo ao meu perfil do github
 
 Sou um Desenvolvedor Fullstack,estou constantemente aprimorando minhas habilidades e trabalhando em projetos pessoais.
 
