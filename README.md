@@ -15,7 +15,7 @@ Olá, eu sou Thomas, um desenvolvedor Fullstack apaixonado por criar soluções 
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="60" height="60" /> Redes 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="50" height="50" />  Redes 
 [![My Skills](https://skillicons.dev/icons?i=facebook,instagram,twitter,discord,linkedin)](https://skillicons.dev)
 
 
