@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  Bem-vindo ao meu perfil do GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="25" height="25" />
 
-Olá, eu sou Thomas, um desenvolvedor Fullstack apaixonado por criar soluções inovadoras e funcionais. Estou sempre em busca de aprimorar minhas habilidades e colaborar em projetos desafiadores.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+Thomas;+sou+um+desenvolvedor+Fullstack+)](https://git.io/typing-svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="50" height="50" />  Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=,js,nodejs,py,react,vue,html,flask,django,ts,Django,npm,selenium,sass&=3)](https://skillicons.dev)
