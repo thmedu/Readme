@@ -1,7 +1,6 @@
 <!-- Seção de boas-vindas -->
 <div align="center"><h1> Olá, sou Thomas <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>  </h1> </div>
 
-# Sobre Mim
 Bem-vindo ao meu perfil do GitHub!
 
 Olá! Meu nome é Thomas e sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Com experiência em desenvolvimento web, estou sempre buscando aprender e evoluir na minha jornada tecnológica.
