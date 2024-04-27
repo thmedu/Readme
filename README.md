@@ -38,6 +38,8 @@ Olá! Meu nome é Thomas e sou um desenvolvedor Full Stack apaixonado por criar 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thmedu&theme=github-dark-dimmed&hide_border=verdadeiro&border_radius=5.8&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
 ## Último Tweet
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jz3xs2vji7gob7r3nrbnikpmfm&width={width})
 [![Últimos Tweets](https://tweeco.pushkaryadav.in/api/handle/https://twitter.com/developerthmedu)](https://twitter.com/developerthmedu)
 
 [![Visitas](https://visitcount.itsvg.in/api?id=thmedu&icon=0&color=0)](https://visitcount.itsvg.in)
