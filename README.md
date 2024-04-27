@@ -1,5 +1,5 @@
 <!-- Seção de boas-vindas -->
-<div align="center"><h1> Olá, sou Thomas <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Thomas </h1> </div>
+<div align="center"><h1> Olá, sou Thomas <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>  </h1> </div>
 
 # Sobre Mim
 Bem-vindo ao meu perfil do GitHub!
