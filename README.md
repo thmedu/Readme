@@ -1,4 +1,4 @@
-<!-- Seção de boas-vindas -->
+AA<!-- Seção de boas-vindas -->
 <div align="center"><h1> Olá, sou <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Thomas </h1> </div>
 
 # Sobre Mim
@@ -39,8 +39,5 @@ Olá! Meu nome é Thomas e sou um desenvolvedor Full Stack apaixonado por criar 
 
 ## Último Tweet
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jz3xs2vji7gob7r3nrbnikpmfm&width={width})
-[![Últimos Tweets](https://tweeco.pushkaryadav.in/api/handle/https://twitter.com/developerthmedu)](https://twitter.com/developerthmedu)
-
-[![Visitas](https://visitcount.itsvg.in/api?id=thmedu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jz3xs2vji7gob7r3nrbnikpmfm)
 <!-- Feito usando https://prm.pushkaryadav.in -->
