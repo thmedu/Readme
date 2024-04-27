@@ -35,9 +35,7 @@ Olá! Meu nome é Thomas e sou um desenvolvedor Full Stack apaixonado por criar 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=plastic)
 
 ## Estatísticas do GitHub
-[![Contribuições](https://github-readme-stats.vercel.app/api?username=thmedu&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/thmedu)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thmedu&hide_border=false&layout=compact)](https://github.com/thmedu)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thmedu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/thmedu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thmedu&theme=github-dark-dimmed&hide_border=verdadeiro&border_radius=5.8&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
 ## Último Tweet
 [![Últimos Tweets](https://tweeco.pushkaryadav.in/api/handle/https://twitter.com/developerthmedu)](https://twitter.com/developerthmedu)
