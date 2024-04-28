@@ -3,7 +3,7 @@
 
 Bem-vindo ao meu perfil do GitHub!
 
-Olá! Meu nome é Thomas e sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Com experiência em desenvolvimento web, estou sempre buscando aprender e evoluir na minha jornada tecnológica.
+Eu sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Com experiência em desenvolvimento web, estou sempre buscando aprender e evoluir na minha jornada tecnológica.
 
 ## Redes Sociais e contato
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic)
